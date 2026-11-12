@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/playground/">
+    <Project Path="playground/Scratch/Scratch.csproj" />
+  </Folder>
+</Solution>
