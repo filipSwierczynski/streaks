@@ -1,0 +1,5 @@
+<Project>
+ <Import Project="$([MSBuild]::GetPathOfFileAbove('Directory.Build.props', '$(MSBuildThisFileDirectory)../'))" />
+  <PropertyGroup> <NoWarn>$(NoWarn);CA1707;CA1822;CA1515;CA2000;CA2213</NoWarn>
+   </PropertyGroup>
+</Project>

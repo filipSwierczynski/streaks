@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Streaks.Api\Streaks.Api.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+
+  </PropertyGroup>
+
+</Project>

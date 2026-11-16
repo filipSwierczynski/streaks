@@ -1,5 +1,14 @@
 <Solution>
   <Folder Name="/playground/">
+    <Project Path="playground/HelloApi/HelloApi.csproj" />
     <Project Path="playground/Scratch/Scratch.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Streaks.Api/Streaks.Api.csproj" />
+    <Project Path="src/Streaks.Domain/Streaks.Domain.csproj" />
+    <Project Path="src/Streaks.Infrastructure/Streaks.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Streaks.Domain.Tests/Streaks.Domain.Tests.csproj" />
   </Folder>
 </Solution>

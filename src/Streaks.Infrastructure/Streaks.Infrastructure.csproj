@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Streaks.Domain\Streaks.Domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+
+  </PropertyGroup>
+
+</Project>
