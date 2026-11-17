@@ -1,1 +1,1 @@
-﻿Scratch.Day03.Run();
+﻿Scratch.Day1.Run();
